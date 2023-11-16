@@ -1,6 +1,6 @@
 import random
 import string
-from utils.dbconfig import dbconfig
+from src.utils.dbconfig import dbconfig
 from sys import exit
 from getpass import getpass
 from hashlib import sha256
